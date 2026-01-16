@@ -95,15 +95,15 @@ Colleges face increasing electricity bills and energy wastage due to lack of awa
 
 ## 9. Prompt Workflow Design
 Energy Consumption Data Input
-↓
+--->
 Data Understanding & Cleaning
-↓
+--->
 Pattern Detection
-↓
+--->
 Sustainability Insight Generation
-↓
+--->
 Energy-Saving Recommendations
-↓
+--->
 Conversational Explanation
 
 This workflow clearly demonstrates where and how AI is applied.
